@@ -1,0 +1,1 @@
+In this project we explored tuples in python. The first task demonstrates the use of formatting and printing tuples. The second was about setting up a data structure and adding things to it. The third was about printing different customer orders using tuples nested in a list.
